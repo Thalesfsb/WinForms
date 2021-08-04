@@ -1,0 +1,38 @@
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\Thales.exe.config
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\Thales.exe
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\Thales.pdb
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\EntityFramework.dll
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\System.Data.SQLite.dll
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\EntityFramework.xml
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\bin\Release\System.Data.SQLite.xml
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.Form1.resources
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.Properties.Resources.resources
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.csproj.GenerateResource.cache
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.csproj.CopyComplete
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.exe
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.pdb
+C:\Users\Basis Tecnologia\Desktop\Thales\Thales\obj\Release\Thales.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\Thales.exe.config
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\Thales.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\Thales.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\EntityFramework.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\System.Data.SQLite.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\EntityFramework.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\bin\Release\System.Data.SQLite.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.Form1.resources
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Thales\Thales\obj\Release\Thales.pdb
